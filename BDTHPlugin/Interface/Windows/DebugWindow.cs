@@ -2,7 +2,7 @@
 
 using Dalamud.Bindings.ImGui;
 
-namespace BDTHPlugin.Interface.Windows
+namespace BDTHPluginKirin.Interface.Windows
 {
   public class DebugWindow : Window
   {

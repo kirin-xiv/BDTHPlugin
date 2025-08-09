@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BDTHPlugin
+namespace BDTHPluginKirin
 {
   public class PluginException : Exception
   {

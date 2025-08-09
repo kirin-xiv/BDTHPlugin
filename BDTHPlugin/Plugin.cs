@@ -13,10 +13,10 @@ using System.Globalization;
 using System.Linq;
 using System.Numerics;
 
-using BDTHPlugin.Interface;
+using BDTHPluginKirin.Interface;
 using Dalamud.Interface.Textures;
 
-namespace BDTHPlugin
+namespace BDTHPluginKirin
 {
   public class Plugin : IDalamudPlugin
   {

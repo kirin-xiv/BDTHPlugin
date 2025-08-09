@@ -7,9 +7,9 @@ using Dalamud.Interface.Windowing;
 using Dalamud.Bindings.ImGui;
 using Dalamud.Bindings.ImGuizmo;
 
-using BDTHPlugin.Interface.Components;
+using BDTHPluginKirin.Interface.Components;
 
-namespace BDTHPlugin.Interface.Windows
+namespace BDTHPluginKirin.Interface.Windows
 {
   public class MainWindow : Window
   {

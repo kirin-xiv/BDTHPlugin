@@ -5,7 +5,7 @@ using Dalamud.Interface.Windowing;
 
 using Dalamud.Bindings.ImGui;
 
-namespace BDTHPlugin.Interface.Windows
+namespace BDTHPluginKirin.Interface.Windows
 {
   public class FurnitureList : Window
   {

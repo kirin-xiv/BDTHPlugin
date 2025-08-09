@@ -5,7 +5,7 @@
     "Description": "Move around housing items with coordinates and allows you to place anywhere.",
     "Punchline": "House decorating made easy!",
     "InternalName": "BDTHPluginKirin",
-    "AssemblyVersion": "2.0.0",
+    "AssemblyVersion": "2.0.1",
     "RepoUrl": "https://github.com/kirin-xiv/BDTHPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -23,8 +23,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1744329600,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/kirin-xiv/BDTHPlugin/releases/download/2.0.0/BDTHPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/kirin-xiv/BDTHPlugin/releases/download/2.0.0/BDTHPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/kirin-xiv/BDTHPlugin/releases/download/2.0.0/BDTHPlugin.zip"
+    "DownloadLinkInstall": "https://github.com/kirin-xiv/BDTHPlugin/releases/download/2.0.1/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/kirin-xiv/BDTHPlugin/releases/download/2.0.1/BDTHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/kirin-xiv/BDTHPlugin/releases/download/2.0.1/BDTHPlugin.zip"
   }
 ]

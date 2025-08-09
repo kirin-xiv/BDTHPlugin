@@ -5,7 +5,7 @@ using Dalamud.Interface.Components;
 
 using Dalamud.Bindings.ImGui;
 
-namespace BDTHPlugin.Interface.Components
+namespace BDTHPluginKirin.Interface.Components
 {
   public class ItemControls
   {

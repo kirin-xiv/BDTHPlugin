@@ -4,7 +4,7 @@ using Dalamud.Interface.Utility;
 using Dalamud.Bindings.ImGui;
 using Dalamud.Bindings.ImGuizmo;
 
-namespace BDTHPlugin.Interface
+namespace BDTHPluginKirin.Interface
 {
   public class Gizmo
   {

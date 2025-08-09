@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using System.Runtime.InteropServices;
 
-namespace BDTHPlugin
+namespace BDTHPluginKirin
 {
   public enum HousingLayoutMode
   {

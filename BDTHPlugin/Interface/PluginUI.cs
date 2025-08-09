@@ -1,8 +1,8 @@
-using BDTHPlugin.Interface.Windows;
+using BDTHPluginKirin.Interface.Windows;
 
 using Dalamud.Interface.Windowing;
 
-namespace BDTHPlugin.Interface
+namespace BDTHPluginKirin.Interface
 {
   public class PluginUI
   {
