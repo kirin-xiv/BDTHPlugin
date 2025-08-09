@@ -1,9 +1,9 @@
 {
   "Author": "LeonBlade",
-  "Name": "Burning Down the House",
+  "Name": "Burning Down the House (Kirin Temp Version)",
   "Description": "Move around housing items with coordinates and allows you to place anywhere.",
   "Punchline": "House decorating made easy!",
-  "InternalName": "BDTHPlugin",
+  "InternalName": "BDTHPluginKirin",
   "AssemblyVersion": "2.0.0",
   "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
   "ApplicableVersion": "any",
